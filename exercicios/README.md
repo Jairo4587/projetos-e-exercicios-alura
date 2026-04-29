@@ -1,1 +1,1 @@
-# exercicios propostos pela alura resolvidos
+# resolução de exercicios propostos pela alura.
